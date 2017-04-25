@@ -8,7 +8,7 @@ The data set contains information on various cars. For each car we have informat
 * Download [here](https://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data)
 * See Dataset information [here](https://archive.ics.uci.edu/ml/datasets/Automobile)
 
-## Notebook Contents
+## [Notebook Contents](../master/machine_learning_predicting_car_prices.ipynb)
 1. Reading The Data    
   A. Handling Missing Column Names  
 2. Exploring The Data  
